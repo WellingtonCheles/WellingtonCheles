@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellingtonjuniorcheles)](https://www.linkedin.com/in/wellingtonjuniorcheles) 
 
 
-### Meu nome é Wellington Cheles, sou estudante do curso de Ciência da Computação na Universidade Paulista (UNIP).
+### Meu nome é Wellington Cheles, estudante do curso de Ciência da Computação na Universidade Paulista (UNIP).
 
 
 ## Tecnologias:computer:
