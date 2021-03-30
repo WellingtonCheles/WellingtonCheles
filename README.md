@@ -24,7 +24,7 @@
  
 #### Banco de Dados:
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="xd" width="7%"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="7%"> 
 </p>
 
 
