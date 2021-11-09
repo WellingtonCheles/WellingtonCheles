@@ -18,6 +18,7 @@
 
 #### Front-end:
 <p align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
  <img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="html5" width="4%">
  <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css3" width="4%"">
 </p>
