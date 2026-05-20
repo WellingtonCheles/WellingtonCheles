@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellingtonjuniorcheles)](https://www.linkedin.com/in/wellingtonjuniorcheles) 
 
 
-### Meu nome é Wellington Cheles, programdor de sistemas.
+### Meu nome é Wellington Cheles, programador de sistemas.
 
 
 ## Tecnologias:computer:
